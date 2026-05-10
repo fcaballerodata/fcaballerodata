@@ -76,7 +76,6 @@ AI-assisted Modeling   →  Claude AI + MCP Server · Agentic BI workflows · Pr
 - **15+** Snowflake data pipelines designed and monitored
 - **1 analyst role eliminated** through BI automation — by migrating manual Odoo exports and Excel-based workflows into self-service Power BI dashboards, the commercial team accessed reports directly, removing the need for a dedicated reporting analyst position
 - **20+** DAX measures developed across KPI, budget, NPS, and sales reporting models
-- **4** companies reached final-stage technical assessments (Bia Energy, Jelou, Cabify, Rappi)
 
 ---
 

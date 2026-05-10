@@ -52,7 +52,7 @@ I'm a BI & Data Analyst with **4+ years of experience** building data infrastruc
 | [**Customer RFM Segmentation**](https://github.com/fcaballerodata/customer-rfm-segmentation) | RFM model to classify and segment the client base, enabling targeted retention and reactivation campaigns | Power BI · Google Sheets · Power Query (M) | 🔜 Coming Soon |
 | [**Client Density Map**](https://github.com/fcaballerodata/client-density-map) | Geospatial analysis to visualize client distribution vs. clinic locations, supporting strategic expansion decisions | Python · Power BI · Google Maps API · PostgreSQL · Odoo | 🔜 Coming Soon |
 | [**BI Infrastructure Case Study**](https://github.com/fcaballerodata/bi-infrastructure-case-study) | End-to-end BI architecture built from scratch: Dataflows, star schema, KPI catalog, data dictionary, and SLAs | Power BI · DAX · PostgreSQL · Odoo | 🔜 Coming Soon |
-| [**Bia Energy — BI Challenge**](https://github.com/fcaballerodata/bia-energy-challenge) | Technical assessment: Power BI dashboard analyzing Colombian energy demand with 20+ DAX measures | Power BI · DAX · Excel | 🔜 Coming Soon |
+| [**Bia Energy — BI Challenge**](https://github.com/fcaballerodata/bia-energy-challenge) | Energy demand analysis across 28 Colombian departments: 4 reports, custom Opportunity Index, pricing competitiveness by Regional Operator, and commercial strategy recommendations | Power BI · DAX · Power Query · Excel | ✅ Live |
 | [**Cabify Logistics — Data Challenge**](https://github.com/fcaballerodata/cabify-data-challenge) | Data analysis challenge for Cabify's logistics vertical | Python · SQL | 🔜 Coming Soon |
 
 ---
@@ -74,8 +74,9 @@ AI-assisted Modeling   →  Claude AI + MCP Server · Agentic BI workflows · Pr
 
 - **8+** Power BI dashboards built and maintained in production
 - **15+** Snowflake data pipelines designed and monitored
-- **Reduced manual reporting effort** across analysts, managers, and directors by integrating Odoo directly with Power BI — shifting teams from reactive Excel exports to proactive, self-service analytics and faster decision-making
+- **1 analyst role eliminated** through BI automation — by migrating manual Odoo exports and Excel-based workflows into self-service Power BI dashboards, the commercial team accessed reports directly, removing the need for a dedicated reporting analyst position
 - **20+** DAX measures developed across KPI, budget, NPS, and sales reporting models
+- **4** companies reached final-stage technical assessments (Bia Energy, Jelou, Cabify, Rappi)
 
 ---
 

@@ -49,10 +49,11 @@ I'm a BI & Data Analyst with **4+ years of experience** building data infrastruc
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
 | [**Helix Core — BI Challenge**](https://github.com/fcaballerodata/helix-core-bi-challenge) | Commercial intelligence dashboard for a SaaS B2B company (LATAM): 3 reports, 150 DAX measures, 15 actionable insights | Power BI · DAX · Excel · Claude AI · MCP Server | ✅ Live |
+| [**Bia Energy — BI Challenge**](https://github.com/fcaballerodata/bia-energy-challenge) | Energy demand analysis across 28 Colombian departments: 4 reports, custom Opportunity Index, pricing competitiveness by Regional Operator, and commercial strategy recommendations | Power BI · DAX · Power Query · Excel | ✅ Live |
+| [**Jelou AI — Revenue Data Analyst Challenge**](https://github.com/fcaballerodata/jelou-revenue-analyst) | Revenue Review Q4 2025 for a conversational AI SaaS: funnel analysis (850 leads → 40 deals), CRM governance plan, dashboard architecture, 3 CRO recommendations, and 30/60/90-day roadmap. Includes a Revenue & CRM Glossary for team alignment | HubSpot · SQL · Power BI · MEDDIC · SaaS B2B Analytics | ✅ Live |
 | [**Customer RFM Segmentation**](https://github.com/fcaballerodata/customer-rfm-segmentation) | RFM model to classify and segment the client base, enabling targeted retention and reactivation campaigns | Power BI · Google Sheets · Power Query (M) | 🔜 Coming Soon |
 | [**Client Density Map**](https://github.com/fcaballerodata/client-density-map) | Geospatial analysis to visualize client distribution vs. clinic locations, supporting strategic expansion decisions | Python · Power BI · Google Maps API · PostgreSQL · Odoo | 🔜 Coming Soon |
 | [**BI Infrastructure Case Study**](https://github.com/fcaballerodata/bi-infrastructure-case-study) | End-to-end BI architecture built from scratch: Dataflows, star schema, KPI catalog, data dictionary, and SLAs | Power BI · DAX · PostgreSQL · Odoo | 🔜 Coming Soon |
-| [**Bia Energy — BI Challenge**](https://github.com/fcaballerodata/bia-energy-challenge) | Energy demand analysis across 28 Colombian departments: 4 reports, custom Opportunity Index, pricing competitiveness by Regional Operator, and commercial strategy recommendations | Power BI · DAX · Power Query · Excel | ✅ Live |
 | [**Cabify Logistics — Data Challenge**](https://github.com/fcaballerodata/cabify-data-challenge) | Data analysis challenge for Cabify's logistics vertical | Python · SQL | 🔜 Coming Soon |
 
 ---

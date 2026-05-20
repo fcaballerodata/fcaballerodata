@@ -62,7 +62,7 @@ I'm a BI & Data Analyst with **4+ years of experience** building data infrastruc
 
 | Repository | Description | Stack | Status |
 |------------|-------------|-------|--------|
-| [**MSc Data Science — Universidad DaVinci**](https://github.com/fcaballerodata/msc-data-science-davinci) | Full academic track of my Master's in Data Science (AI/ML specialization, 2026–2027): notebooks, practical assignments, and academic forums per subject. T1 completed with 100/100 in both subjects | JavaScript · MongoDB · Hadoop · Python · SQL · Power BI | 🟢 In Progress |
+| [**MSc Data Science — Universidad DaVinci**](https://github.com/fcaballerodata/Master-DataScience-UDaVinci) | Full academic track of my Master's in Data Science (AI/ML specialization, 2026–2027): notebooks, practical assignments, and academic forums per subject. T1 completed with 100/100 in both subjects | JavaScript · MongoDB · Hadoop · Python · SQL · Power BI | 🟢 In Progress |
 
 ---
 

@@ -32,6 +32,7 @@ I'm a BI & Data Analyst with **4+ years of experience** building data infrastruc
 
 **Programming & Automation**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=google&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power%20Query-F2C811?style=flat&logo=microsoft&logoColor=black)
@@ -56,6 +57,18 @@ I'm a BI & Data Analyst with **4+ years of experience** building data infrastruc
 | [**Cabify — Operations Control Tower**](https://github.com/fcaballerodata/cabify-data-challenge) | Operations dashboard for 35K+ ride operations across Mexico City: trip funnel (47.4% completion rate), revenue by product line (Cabify Corp drives 64.5% of MXN $253M total), driver quality scoring, and cost-margin analysis. Includes 3 production-ready Snowflake SQL queries | Power BI · DAX · Snowflake SQL · Python · Excel | ✅ Live |
 | [**Customer RFM Segmentation**](https://github.com/fcaballerodata/customer-rfm-segmentation) | RFM model to classify and segment the client base, enabling targeted retention and reactivation campaigns | Power BI · Google Sheets · Power Query (M) | 🔜 Coming Soon |
 | [**Client Density Map**](https://github.com/fcaballerodata/client-density-map) | Geospatial analysis to visualize client distribution vs. clinic locations, supporting strategic expansion decisions | Python · Power BI · Google Maps API · PostgreSQL · Odoo | 🔜 Coming Soon |
+
+---
+
+## 🐍 Python & R — Programming Guides
+
+> Two languages. One goal: turn raw data into decisions.
+> Python and R are the backbone of modern data analysis. These repositories document production-ready workflows, reusable templates, and side-by-side comparisons — built for BI and Data Analysts who want to go beyond dashboards and work directly with data programmatically.
+
+| Repository | Description | Stack | Status |
+|------------|-------------|-------|--------|
+| [**Python Data Analysis Workflow Guide**](https://github.com/fcaballerodata/data-analysis-python-guide) | Complete end-to-end Python workflow for data analysts: data loading (CSV, SQL, APIs), EDA, cleaning, feature engineering, visualization, and ML basics. Includes Jupyter notebooks, reusable templates (5-line EDA, data quality checks, model evaluation), and sample datasets. Built for BI professionals transitioning to Python and for technical interview prep. | Python · Pandas · NumPy · Scikit-learn · Matplotlib · Jupyter | ✅ Live |
+| [**R Data Analysis Guide**](https://github.com/fcaballerodata/r-data-analysis-guide) | Hands-on R reference guide for BI and Data Analysts — covering the full analysis workflow with tidyverse. Every concept shown side by side with Python so you can leverage what you already know: dplyr vs. pandas, ggplot2 vs. matplotlib, tidyr vs. stack/melt. Includes scripts, cheatsheets (Python→R equivalences, dplyr, ggplot2), and a complete loan analysis end-to-end example. | R · tidyverse · dplyr · ggplot2 · RStudio | ✅ Live |
 
 ---
 
